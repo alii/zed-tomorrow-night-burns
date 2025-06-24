@@ -1,0 +1,7 @@
+id = "tomorrow-night-burns-theme"
+name = "Tomorrow Night Burns"
+schema_version = 1
+version = "0.0.1"
+authors = ["Alistair Smith <hi@alistair.sh>"]
+description = "The sleek Tomorrow Night Burns theme from iTerm2 and Ghostty, for Zed"
+repository = "https://github.com/alii/zed-tomorrow-night-burns"
